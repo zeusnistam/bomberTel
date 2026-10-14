@@ -269,7 +269,7 @@ async def show_main_menu(update: Update, context: ContextTypes.DEFAULT_TYPE):
   markup = ReplyKeyboardMarkup(reply_kb, resize_keyboard=True)
   
   text = (
-      , "🚀 **به ربات اس ام اس بمبر خوش آمدید**\n\n"
+      "🚀 **به ربات اس ام اس بمبر خوش آمدید**\n\n"
       "📌 **راهنمای فرمت شماره:**\n"
       "لطفاً شماره هدف را با یکی از الگوهای زیر ارسال کنید:\n"
       "▫️ `09123456789`\n"
