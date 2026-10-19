@@ -21,7 +21,7 @@ from telegram.ext import (
 from requests import get, post
 
 # --- تنظیمات اصلی ---
-TOKEN = "7691600294:AAGp1KyQykeiObLfJtrbZWRCXl6RgU-FLiw"
+TOKEN = "8548161807:AAH8lFRYKThuNt1kJAxUH3aazVq17ABh7mA"
 ADMIN_ID = 1601379026
 
 # دیکشنری‌های وضعیت و کنترل پردازش‌ها
