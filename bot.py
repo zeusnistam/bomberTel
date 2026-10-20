@@ -391,7 +391,7 @@ def start_bombing(user_id, target, context):
           service(target)
         except:
           pass
-        time.sleep(2.0)  # وقفه ایمن ۲ ثانیه برای جلوگیری از بلاک آی‌پی
+        time.sleep(0.5)  # وقفه ایمن ۲ ثانیه برای جلوگیری از بلاک آی‌پی
 
     if active_tasks.get(user_id, False):
       active_tasks[user_id] = False
